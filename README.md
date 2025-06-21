@@ -11,3 +11,8 @@ The app displays the latest headlines in different categories using a clean, res
 - 🔍 Browse by categories (e.g. Business, Sports, Tech)
 - 🧭 Navigate between home, categories, and article details
 - 📱 Mobile-friendly UI
+
+
+
+screenshoots
+![Home](assets/screenshots/img.png)
