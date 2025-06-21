@@ -15,4 +15,4 @@ The app displays the latest headlines in different categories using a clean, res
 
 
 screenshoots
-![Home](assets/screenshots/img.png)
+![Home](assets/img.png)
